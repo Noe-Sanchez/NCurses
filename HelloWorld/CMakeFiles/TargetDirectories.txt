@@ -1,0 +1,3 @@
+/home/lorddan45/Lenguajes/c++/proyectos/praxis/ncurses/HelloWorld/CMakeFiles/HelloCurses.dir
+/home/lorddan45/Lenguajes/c++/proyectos/praxis/ncurses/HelloWorld/CMakeFiles/edit_cache.dir
+/home/lorddan45/Lenguajes/c++/proyectos/praxis/ncurses/HelloWorld/CMakeFiles/rebuild_cache.dir
