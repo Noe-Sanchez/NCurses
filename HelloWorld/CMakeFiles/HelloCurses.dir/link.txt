@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/HelloCurses.dir/hellocurses.cpp.o -o HelloCurses  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
